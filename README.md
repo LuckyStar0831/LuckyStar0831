@@ -9,5 +9,6 @@ EVM-based dapp | Solidity | Rust | ReactJS | GoLang | C++ | Next.js | GraphQL | 
 
 📫 How to reach:
 
-Email: lightstar0831@gmail.com 
+Email: lightstar0831@gmail.com
+
 Skype: live:.cid.d2ace1a5abf07b31
