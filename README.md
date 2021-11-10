@@ -1,5 +1,5 @@
 ## Hello, Everyone
-👋 I am developer.
+👋 I am full stack developer.
 
 👀I have been working as a full stack developer since 2015 and I am familiar with Laravel, node, Vue, React, etc.
 Also since 2018 I've been living and breathing web, dapp(Ethereum, Binance smartchain, heco, fantom, matic, tron, solana-based) development and creating web and mobile applications with cool tech stack.
