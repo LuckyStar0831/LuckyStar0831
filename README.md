@@ -12,5 +12,6 @@ EVM-based dapp | Solidity | Rust | NodeJs | VueJs | ReactJS | Laravel | GoLang |
 ## 📫 How to reach:
 ```shell
 Email: lightstar0831@gmail.com
+Telegram: https://t.me/SeniorDeveloper0831
 Skype: live:.cid.d2ace1a5abf07b31
 ```
