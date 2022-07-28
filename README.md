@@ -6,7 +6,7 @@ Also since 2018 I've been living and breathing web, dapp(Ethereum, Binance smart
 Majored in Computer Science at college, I have solid technical background.👀
 
 ## 👨‍💻 I am currently working on:
-EVM-based dapp | Solidity | Rust | NodeJs | VueJs | ReactJS | Laravel | GoLang | C++ | Next.js | GraphQL | NodeJS | AWS | Github | No-SQL | Relational Database | Web3.js
+EVM-based dapp | Solidity | Rust | Java | JavaFx | Java Spring | Java Spring Boot | JavaME | NodeJs | VueJs | ReactJS | Laravel | GoLang | C++ | Next.js | GraphQL | NodeJS | AWS | Github | No-SQL | Relational Database | Web3.js
 
 
 ## 📫 How to reach:
