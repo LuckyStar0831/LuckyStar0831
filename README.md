@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -46,6 +46,10 @@
 
 ###
 
+<h2 align="left">Connect with me</h2>
+
+###
+
 <div align="left">
   <a href="https://t.me/SeniorDeveloper0831" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
@@ -57,8 +61,6 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/LuckyStar0831/LuckyStar0831/blob/output/snake.svg" alt="Snake animation" />
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
