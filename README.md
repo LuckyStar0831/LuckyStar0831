@@ -2,13 +2,13 @@
 
 ###
 
-<h3 align="left">👀 I have been working as a full stack developer since 2015 and I am familiar with Laravel, node, Vue, React, Angular, GoLang, etc. Also since 2018 I've been living and breathing web, dapp(Ethereum, Binance smartchain, heco, fantom, matic, tron, solana-based) development and creating web and mobile applications with cool tech stack. Majored in Computer Science at college, I have solid technical background. 👀</h3>
+<h3 align="left">👀 I have been working as a full stack developer since 2015 and I am familiar with Laravel, node, Vue, React, etc. Also since 2018 I've been living and breathing web, dapp(Ethereum, Binance smartchain, heco, fantom, matic, tron, solana-based) development and creating web and mobile applications with cool tech stack. Majored in Computer Science at college, I have solid technical background. 👀</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&username=Lucky" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=onedark&hide_border=false&username=Lucky" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&username=harrypotter0308" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=onedark&hide_border=false&username=harrypotter0308" height="150" alt="languages graph"  />
 </div>
 
 ###
