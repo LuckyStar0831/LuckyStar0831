@@ -3,8 +3,8 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/LuckyMan#6347) 
-[![Telegram](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://t.me/LuckyMan0831) 
+[![Discord](https://img.shields.io/badge/Discord-Welcome-blue?style=for-the-badge&logo=appveyor)](https://discord.gg/LuckyMan#6347) 
+[![Telegram](https://img.shields.io/badge/Telegram-Welcome-blue?style=for-the-badge&logo=appveyor)](https://t.me/LuckyMan0831) 
 [![Skype](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://join.skype.com/invite/IQri3dAxXLff) 
 
 # 💻 Tech Stack:
