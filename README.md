@@ -1,16 +1,16 @@
 # 💫 About Me:
 
-<b>Welcome to my GitHub profile!
+<b>Welcome to my GitHub profile!</b>
 
 My name is LuckyMan and I'm a full stack and blockchain developer with 7 years of experience in building decentralized applications and web applications. I'm passionate about creating scalable and secure solutions using cutting-edge technology.
 
-As a full stack developer, I'm proficient in front-end technologies such as <b style="color: red;"> HTML, CSS, JavaScript, and React, Vue, Angular, etc as well as back-end technologies such as Python, Node.js, Express, Laravel and MongoDB, MySQL </b>, etc. I have also worked on blockchain projects using Ethereum, Solidity, and Web3.js. I'm always eager to learn new technologies and frameworks to solve complex problems.
+As a full stack developer, I'm proficient in front-end technologies such as <b> HTML, CSS, JavaScript, and React, Vue, Angular, etc as well as back-end technologies such as Python, Node.js, Express, Laravel and MongoDB, MySQL </b>, etc. I have also worked on blockchain projects using Ethereum, Solidity, and Web3.js. I'm always eager to learn new technologies and frameworks to solve complex problems.
 
 I have a strong background in Computer Science and Mathematics from Nanyang Technological University (NTU) and have been involved in various projects throughout my career, including DApps, smart contract development, and scalable web applications. I have expertise in AWS, Google Cloud Platform, and GitHub Actions for CI/CD pipelines.
 
 When I'm not coding, I enjoy reading and writing about blockchain technology and its potential applications. I also enjoy hiking and camping with my family.
 
-Feel free to check out my GitHub repositories to see examples of my work. If you have any questions or want to collaborate on a project, don't hesitate to reach out to me! </b> <br>
+Feel free to check out my GitHub repositories to see examples of my work. If you have any questions or want to collaborate on a project, don't hesitate to reach out to me! <br>
 
 
 ## 🌐 Socials:
