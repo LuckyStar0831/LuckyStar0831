@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-Welcome-blue?style=for-the-badge&logo=appveyor)](https://discord.gg/LuckyMan#6347) 
+[![Discord](https://img.shields.io/badge/Discord-Welcome-green?style=for-the-badge&logo=appveyor)](https://discord.gg/LuckyMan#6347) 
 [![Telegram](https://img.shields.io/badge/Telegram-Welcome-blue?style=for-the-badge&logo=appveyor)](https://t.me/LuckyMan0831) 
 [![Skype](https://img.shields.io/badge/Skype-Welcome-green?style=for-the-badge&logo=appveyor)](https://join.skype.com/invite/IQri3dAxXLff) 
 
