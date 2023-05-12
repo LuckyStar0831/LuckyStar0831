@@ -53,7 +53,11 @@ Feel free to check out my GitHub repositories to see examples of my work. If you
 
 
 ## 🏆 GitHub Trophies
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=LuckyStar0831&column=7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
 
 ### 🔝 Top Contributed Repo
 
