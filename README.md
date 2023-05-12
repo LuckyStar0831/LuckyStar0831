@@ -3,7 +3,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Welcome-blue?style=for-the-badge&logo=appveyor)](https://t.me/LuckyMan0831) 
 [![Skype](https://img.shields.io/badge/Skype-Welcome-green?style=for-the-badge&logo=appveyor)](https://join.skype.com/invite/IQri3dAxXLff) 
 
-## 💫 About Me:
+# 💫 About Me:
 <b>Welcome to my GitHub profile!</b>
 
 My name is LuckyMan and I'm a full stack and blockchain developer with 7 years of experience in building decentralized applications and web applications. I'm passionate about creating scalable and secure solutions using cutting-edge technology.
