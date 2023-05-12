@@ -1,7 +1,17 @@
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-Welcome-yellow?style=for-the-badge&logo=appveyor)](https://discord.gg/LuckyMan#6347) 
-[![Telegram](https://img.shields.io/badge/Telegram-Welcome-blue?style=for-the-badge&logo=appveyor)](https://t.me/LuckyMan0831) 
-[![Skype](https://img.shields.io/badge/Skype-Welcome-green?style=for-the-badge&logo=appveyor)](https://join.skype.com/invite/IQri3dAxXLff) 
+
+<div align="center" dir="auto">
+  <h2 dir="auto" style="position: relative; color: red;"><div style="width:846px;height:57px;background-image:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KIDxnPgogIDx0aXRsZT5MYXllciAxPC90aXRsZT4KICA8cmVjdCBpZD0ic3ZnXzEiIGhlaWdodD0iMTAwIiB3aWR0aD0iMTAwIiB5PSIwIiB4PSIwIiBzdHJva2U9IiMwMDAwMDAiIGZpbGw9IiMwMDAwMDAiLz4KICA8bGluZSBmaWxsPSJub25lIiBzdHJva2U9IiNGMDAiIHgxPSIwIiB5MT0iMCIgeDI9IjEwMCIgeTI9IjEwMCIgaWQ9InN2Z18yIiBzdHJva2UtbGluZWpvaW49InVuZGVmaW5lZCIgc3Ryb2tlLWxpbmVjYXA9InVuZGVmaW5lZCIvPgogIDxsaW5lIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0YwMCIgeDE9IjAiIHkxPSIwIiB4Mj0iMTAwIiB5Mj0iMTAwIiBpZD0ic3ZnXzMiIHN0cm9rZS1saW5lam9pbj0idW5kZWZpbmVkIiBzdHJva2UtbGluZWNhcD0idW5kZWZpbmVkIiB0cmFuc2Zvcm09InJvdGF0ZSg5MCwgNTAsIDUwKSIvPgogPC9nPgoKPC9zdmc+);background-repeat:no-repeat;background-size:846px 57px;" data-xblocker="blocked"></div><h1 style="position: absolute; font-weight: bold; z-index: 1000; top: 50%; left: 50%; color: rgb(255, 153, 0); text-align: center; transform: translate(-50%, -50%);">FAILED</h1></h2>
+  <div align="center" dir="auto"> 
+    <a href="mailto:lightstar0831@gmail.com"><img src="https://camo.githubusercontent.com/87a833daf96ce2e80b1b95f25134c82e688f0f8d8233162ed4ad4dd920ab1694/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f32782f676d61696c2d6e65772e706e67" width="40" data-canonical-src="https://img.icons8.com/fluency/2x/gmail-new.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <a href="https://join.skype.com/invite/IQri3dAxXLff" rel="nofollow"><img src="https://camo.githubusercontent.com/e91b2026169a53f2647d41e6a601d15db6d98e5d22ff2c49aa2c6ffbef7838cc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f736b7970652e706e67" width="40" data-canonical-src="https://img.icons8.com/color/2x/skype.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <a href="https://t.me/LuckyMan0831" rel="nofollow"><img src="https://camo.githubusercontent.com/0e322093be9a72e177af4083f108faa8a0d981f67ce938a8524fe98351fc2003/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f74656c656772616d2d6170702e706e67" width="40" data-canonical-src="https://img.icons8.com/color/2x/telegram-app.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <a href="https://discord.gg/LuckyMan#6347" rel="nofollow"><img src="https://camo.githubusercontent.com/906eec49c3a806c223e885205fb77e5ebe8764a0efa8ee85671482ee97c57a57/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f646973636f72642e706e67" width="40" data-canonical-src="https://img.icons8.com/color/2x/discord.png" style="max-width: 100%;"></a>
+  </div>
+</div>
 
 # 💫 About Me:
 <b>Welcome to my GitHub profile!</b>
